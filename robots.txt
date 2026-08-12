@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-rgmvd1.privatetalks.online/sitemap.xml
